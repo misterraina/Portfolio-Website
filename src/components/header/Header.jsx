@@ -9,7 +9,7 @@ export default function Header() {
     <Avatar/>
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
       <a href="#sectionAbout" className="mr-5 hover:text-white cursor-pointer">About</a>
-      <a href="http://127.0.0.1:5500/resume-main/docs/index.html" target='blank' className="mr-5 hover:text-white cursor-pointer">MyResume</a>
+      <a href="https://drive.google.com/file/d/12OfwWS79bwyRn__BK41AV4_5f9sppu9U/view?usp=sharing" target='blank' className="mr-5 hover:text-white cursor-pointer">MyResume</a>
       <a href="#sectionProject" className="mr-5 hover:text-white cursor-pointer">Projects</a>
       <a href="#sectionFooter" className="mr-5 hover:text-white cursor-pointer">Contact</a>
     </nav>

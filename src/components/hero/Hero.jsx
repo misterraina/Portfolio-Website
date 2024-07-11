@@ -25,7 +25,7 @@ export default function Hero() {
       <p className="mb-8 leading-relaxed">Hello! Hi there! I am Ayush Raina, a passionate learner and aspiring Software Engineer.Welcome to my website, where I showcase my skills, resume, projects, and interests.</p>
       <div className="flex justify-center">
       <a
-        href="http://127.0.0.1:5500/resume-main/docs/index.html"
+        href="https://drive.google.com/file/d/12OfwWS79bwyRn__BK41AV4_5f9sppu9U/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center justify-center text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
